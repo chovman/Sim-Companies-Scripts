@@ -29,9 +29,9 @@ How to Run
 	2.	Open a terminal in the folder containing the script
 	3.	Run the script using:
 
-python3 executive_comparison.py
+	python3 executive_comparison.py
 
-	4.	Follow the on-screen prompts to enter executive details
+Follow the on-screen prompts to enter executive details
 
 ⸻
 
